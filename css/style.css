@@ -1,0 +1,117 @@
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+
+
+header{
+    background-color: #000;
+    text-align: center;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;  
+}
+
+nav{
+    text-align: center;
+    font-family: "calibri";
+    background-color: gray;
+    font-style: initial;
+    color: aliceblue;
+}
+
+body{
+    background-color: whitesmoke;
+}
+
+footer{
+    background-color: gray;
+    font-family: "calibri"
+    
+}
+
+.index-main{
+    text-align: center;
+}
+
+.index-main p {
+    text-align: center;
+    font-size: medium;
+    font-family: "calibri";
+    
+    
+}
+
+
+
+fieldset{
+    text-align: center;
+}
+
+.form-register{
+    width: 400px;
+    background-color: cadetblue;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family: "calibri" ;
+    color: white;
+    box-shadow: 7px 13px 37px #000 ;
+}
+
+.form-register h4{
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+
+.registro{
+    width: 100%;
+    background-color: white;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid grey;
+    font-family: "calibri";
+    font-size: 18px;
+}
+
+.form-register p {
+    height: 40px;
+    text-align: center;
+    font-size: 18px;   
+     
+}
+.form-register a{
+    color: white;
+    text-decoration: none;
+}
+
+.form-register a:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+.form-register .boton {
+    width: 100%;
+    background-color: white;
+    border: none;
+    padding: 12px;
+    color: black;
+    margin: 16px 0 ;
+    font-size: 16px;
+}
+
+.nosotros h2 {
+         text-align: left;
+}
+
+
+
+   img{
+    max-width: 100%;
+    height: auto;
+   }
